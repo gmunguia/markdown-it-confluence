@@ -1,0 +1,21 @@
+{
+  "name": "markdown-it-confluence",
+  "version": "0.1.0",
+  "description": "Plugin for markdown-it that enables rendering to confluence storage representation instead of HTML",
+  "repository": "gmunguia/markdown-it-confluence",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "confluence"
+  ],
+  "devDependencies": {
+    "eslint": "4.10.0",
+    "markdown-it-testgen": "0.1.4",
+    "mocha": "4.0.1"
+  }
+}

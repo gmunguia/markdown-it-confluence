@@ -1,0 +1,6 @@
+Image
+.
+![alt text](https://path.to.some.png "Png Title Text 1")
+.
+<p><ac:image ac:alt="alt text" ac:title="Png Title Text 1"><ri:url ri:value="https://path.to.some.png" /></ac:image></p>
+.
