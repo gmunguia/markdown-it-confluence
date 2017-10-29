@@ -19,4 +19,4 @@ var md = require('markdown-it')()
 
 ## License
 
-[MIT](https://github.com/gmunguia/markdown-it-confluence/blob/master/LICENSE<Paste>)
+[MIT](https://github.com/gmunguia/markdown-it-confluence/blob/master/LICENSE)
