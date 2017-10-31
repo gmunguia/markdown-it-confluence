@@ -4,3 +4,10 @@ Image
 .
 <p><ac:image ac:alt="alt text" ac:title="Png Title Text 1"><ri:url ri:value="https://path.to.some.png" /></ac:image></p>
 .
+
+Image without title
+.
+![alt text](https://path.to.some.png)
+.
+<p><ac:image ac:alt="alt text" ><ri:url ri:value="https://path.to.some.png" /></ac:image></p>
+.
